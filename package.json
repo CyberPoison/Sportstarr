@@ -35,7 +35,7 @@
     "gulp-stripbom": "1.0.4",
     "gulp-webpack": "1.5.0",
     "gulp-wrap": "0.11.0",
-    "handlebars": "3.0.3",
+    "handlebars": "4.7.6",
     "jshint-loader": "0.8.3",
     "jshint-stylish": "2.0.1",
     "run-sequence": "1.1.1",
